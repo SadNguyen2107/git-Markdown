@@ -48,7 +48,8 @@ flowchart LR
     parser(Markdown Parser)
     HTML((HTML Document))
 
-    initial -- Parsing In JS, C#, etc,...--> parser --> HTML
+    initial -- Parsing In JS, C#, etc,...--> parser 
+    parser --> HTML
 ```
 
 ## Collaborators
