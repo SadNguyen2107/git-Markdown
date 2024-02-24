@@ -1,6 +1,13 @@
 # Git Markdown
 A language that is specifically to *markdown* **Documentations** more *interesting!* :art:
 
+## Table of Contents:
+1. [Definitions](README.md#what-is-git-markdown) :book:
+2. [Usage](README.md#usage) :iphone:
+3. [History and Background](README.md#history-and-background-of-markdown) :shinto_shrine:
+4. [Collaborators](README.md#collaborators) :people_holding_hands:
+5. [License](README.md#license) :closed_book:
+
 ## What is Git Markdown?
 ### Reason why I built this repo:
 - To test it is felt to writing in **Markdown :book:** 
@@ -10,16 +17,15 @@ A language that is specifically to *markdown* **Documentations** more *interesti
 
 ### Problem it solve:
 - Make a **World of Documentation** more meaningful :+1: 
-
-## Features
 - Make **Documentation** more colorful :red_square::green_square::blue_square:
 
-## How to Install
+## Usage
+### How to Install
 1. Download [Visual Studio Code](https://code.visualstudio.com/) :writing_hand: (or any Code Editor that support **Markdown** :computer:)
    
 2. Download [Markdown Extension](bierner.github-markdown-preview) on Visual Studio Code
 
-## How to Use 
+### How to Use 
 1. Read some instructions on how to write in on this page :point_right: **[Tutorial How To Write Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)**
    
 2. Test it out on **Visual Studio Code**: :writing_hand:
@@ -31,7 +37,7 @@ A language that is specifically to *markdown* **Documentations** more *interesti
    
 3. Feel the power of **Markdown!** :100:
 
-## Technologies
+## History and Background of Markdown
 ```mermaid 
 timeline 
     title History of Markdown
